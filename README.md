@@ -2,7 +2,7 @@
 
 A collection of rust project/exercises that I did while trying to learn the rust programming language
 
-# Resources Links
+## Resources Links
 
 https://doc.rust-lang.org/book/title-page.html
 
